@@ -1,3 +1,5 @@
 hello 1 2 3(branch) 4(2nd branch)
 
 added new feature 1
+
+added new feature 2
